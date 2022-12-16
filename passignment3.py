@@ -73,23 +73,23 @@
 
 #q10
 
-x,y,z=map(int,input('enter ur value').split())
-big=small=res=0
-if(x>y and x>z):
-    big=x
-elif(y>x and y>z):
-    big=y
-else:
-    big=z    
+# x,y,z=map(int,input('enter ur value').split())
+# big=small=res=0
+# if(x>y and x>z):
+#     big=x
+# elif(y>x and y>z):
+#     big=y
+# else:
+#     big=z    
 
-if(x<y and x<z):
-    small=x          ###but i need modify this programing
-elif(y<x and y<z):
-    small=y
-else:
-    small=z        
-res=big-small
-print(res)
+# if(x<y and x<z):
+#   small=x         
+# elif(y<x and y<z):
+#     small=y
+# else:
+#     small=z        
+# res=big-small
+# print(res)
         
 #q.12
 # n=int(input('enter your no:'))
@@ -121,4 +121,4 @@ print(res)
 #     if(j==sum):
 #         print(j)    
 
-
+# print("not completed assignment3")
